@@ -1,0 +1,11 @@
+
+flutter_native_splash:
+  color: "#29384D"
+
+
+  image: assets/images/androidNative.png
+
+  android_12:
+    color: "#29384D"
+    # TODO(assets): Android 12+ splash icon (png, transparent background, ~960x960 with padding)
+    image: assets/images/androidNative.png
